@@ -1,0 +1,1 @@
+# SpotDRAFT-Junior-Integration-Assignment
