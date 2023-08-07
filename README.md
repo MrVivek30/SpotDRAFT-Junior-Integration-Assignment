@@ -42,5 +42,5 @@ Before you begin, ensure you have:
 ### Contact
 
 
-Email: vivekchaudhary538@gmail.com
+Email: vivekchaudhary538@gmail.com <br>
 GitHub:https://github.com/MrVivek30
