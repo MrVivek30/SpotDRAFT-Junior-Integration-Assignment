@@ -29,7 +29,7 @@ Before you begin, ensure you have:
 
 ### Configuration
 
-1. Clone the GitHub repository: [Repository Link](https://github.com/your-username/asana-airtable-integration).
+1. Clone the GitHub repository: [Repository Link](https://github.com/MrVivek30/SpotDRAFT-Junior-Integration-Assignment).
 2. Open the project in your preferred Java IDE.
 
 #### Configuration for Asana
