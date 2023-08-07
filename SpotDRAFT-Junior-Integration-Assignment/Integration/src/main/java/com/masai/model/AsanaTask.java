@@ -10,11 +10,12 @@ import lombok.NoArgsConstructor;
 
 public class AsanaTask {
 
-    private String taskId;
-    private String name;
-    private String assignee;
-    private String dueDate;
-    private String description;
+	  private String taskId;
+	    private String name;
+	    private String assignee;
+	    private String dueDate;
+	    private String description;
+
 
     // Getters and setters
 }
